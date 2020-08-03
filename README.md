@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning like a sponge, absorbing everything I can!
 - 💬 Ask me about anything.
 - 📫 How to reach me: TBD.
-- ⚡ Fun fact: I know 3 languages!
+- ⚡ Fun fact: Knowing multiple languages leads to higher levels of abstract thought. I speak in 3 languages (excluding programming languages 😄).
 
 <hr>
 <details>
