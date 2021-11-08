@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on getting a degree in Software Engineering and constantly honing my programming skills, trying to absorb anything I can!
 - 💬 Ask me about anything.
 - 📫 How to reach me: TBD.
-- 
+
 - ⚡ Fun fact: Knowing multiple languages leads to higher levels of abstract thought. I speak in 3 languages (excluding programming languages 😄).
 
 <hr>
