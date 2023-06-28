@@ -34,6 +34,9 @@
 <details>
   <summary>Github statistics...</summary>
   <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KostyaVarenye&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript&show_icons=true"/>
+  </p>
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=KostyaVarenye&show_icons=true"/>
   </p>
  </details>
